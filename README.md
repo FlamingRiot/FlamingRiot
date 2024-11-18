@@ -9,11 +9,11 @@ I'm now developing my own game engine, and hopefully will someday create my drea
 
 ## 🏳️ Languages and tools
 
-<section style="margin:20px;">
-  <img align="left" alt="CSharp" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
-  <img align="left" alt="Unity" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"/>
-  <img align="left" alt="Raylib" width="50px" style="padding-right:10px;" src="https://github.com/raysan5/raylib/raw/master/logo/raylib_logo_animation.gif"/>
-</section>
+<img align="left" alt="CSharp" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
+<img align="left" alt="Unity" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"/>
+<img align="left" alt="Raylib" width="50px" style="padding-right:10px;" src="https://github.com/raysan5/raylib/raw/master/logo/raylib_logo_animation.gif"/>
+
+#
 
 #
 
