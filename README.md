@@ -13,7 +13,7 @@ I'm now developing my own game engine, and hopefully will someday create my drea
 <img align="left" alt="Unity" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"/>
 <img align="left" alt="Raylib" width="50px" style="padding-right:10px;" src="https://github.com/raysan5/raylib/raw/master/logo/raylib_logo_animation.gif"/>
 
-## 🤚 Me
+#
 
 <details>
   <summary><h3>✏️ My Art</h3></summary>
