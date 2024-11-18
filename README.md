@@ -17,11 +17,10 @@ I'm now developing my own game engine, and hopefully will someday create my drea
 
 #
 
-<details>
-  <summary><h3>✏️ My Art</h3></summary>
-  Art is something I believe should require a minimum amount of talent. Unfortunately, most "artists" these days don't even 
-  try, they just call the pair of glasses laying on the counter art. That's what it is. So I decided to learn by myself, trying 
-  to improve my technique each time, to learn from what I did wrong on the latter. My art consists of drawing real people with 
-  the most realism possible, all that with only colored pencils. Now I don't have much pieces to be proud of, but trust me, 
-  I'm working on something so big, it sure is going to be my best one ever. Stay tuned.
-</details>
+## ✏️ My Art
+
+Art is something I believe should require a minimum amount of talent. Unfortunately, most "artists" these days don't even 
+try, they just call the pair of glasses laying on the counter art. That's what it is. So I decided to learn by myself, trying 
+to improve my technique each time, to learn from what I did wrong on the latter. My art consists of drawing real people with 
+the most realism possible, all that with only colored pencils. Now I don't have much pieces to be proud of, but trust me, 
+I'm working on something so big, it sure is going to be my best one ever. Stay tuned.
