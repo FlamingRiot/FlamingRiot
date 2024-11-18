@@ -15,7 +15,7 @@ I'm now developing my own game engine, and hopefully will someday create my drea
 
 #
 
-## 🤚 Me
+##
 
 <details>
   <summary><h3>✏️ My Art</h3></summary>
